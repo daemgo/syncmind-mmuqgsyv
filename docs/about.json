@@ -1,16 +1,16 @@
 {
   "project": {
-    "name": "",
-    "description": "",
-    "type": ""
+    "name": "成衣外贸ERP管理系统",
+    "description": "为成衣外贸行业打造的企业资源管理软件，覆盖订单管理、生产跟踪、库存管理、财务结算、报关出口等核心业务流程",
+    "type": "新建"
   },
   "customer": {
     "name": "",
-    "industry": "",
-    "requirements": ""
+    "industry": "成衣外贸",
+    "requirements": "覆盖订单管理、生产跟踪、库存管理、财务结算、报关出口等核心业务流程"
   },
   "metadata": {
-    "createdAt": "",
-    "updatedAt": ""
+    "createdAt": "2026-03-17T00:00:00.000Z",
+    "updatedAt": "2026-03-17T00:00:00.000Z"
   }
 }
