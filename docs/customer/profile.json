@@ -1,142 +1,165 @@
 {
   "profile": {
-    "companyName": "江西天臣进出口有限责任公司",
-    "shortName": "江西天臣",
+    "companyName": "宜昌长机科技有限责任公司",
+    "shortName": "宜昌长机科技 / 长机科技",
     "isListed": false,
     "stockCode": "",
-    "website": "",
-    "industry": "进出口贸易",
-    "subIndustry": "纺织品/机械设备进出口",
-    "scale": "小型企业",
-    "mainBusiness": "自营和代理各类商品和技术的进出口业务",
+    "website": "https://www.cjmt.com.cn/",
+    "industry": "高端装备制造",
+    "subIndustry": "齿轮加工机床 / 数控机床",
+    "scale": "中型企业",
+    "mainBusiness": "全系列数控插齿机、滚齿机、铣齿机、刮齿机、磨齿机等齿轮加工装备的研发制造与销售，以及机床再制造服务",
     "products": [
-      "针织品",
-      "服装",
-      "机械设备",
-      "电子设备"
+      "数控插齿机（Φ120-5000mm，9大系列）",
+      "数控铣齿机（Φ800-8000mm）",
+      "数控滚齿机（Φ500-6000mm）",
+      "卧式滚齿机",
+      "齿条插齿/铣齿/磨齿系列",
+      "齿扇插齿机",
+      "梳槽机",
+      "机床再制造服务"
     ],
     "targetCustomers": [
-      "待补充"
+      "汽车制造（转向器、变速箱齿轮）",
+      "工程机械",
+      "风电装备",
+      "矿山机械",
+      "冶金设备",
+      "电梯制造",
+      "精密机床"
     ],
-    "businessModel": "B2B贸易 - 进出口贸易代理和自营业务",
-    "rating": "C",
+    "businessModel": "B2B装备制造 - 研产供销一体化，产品销售+再制造服务+技术支持",
+    "rating": "A+",
     "tags": [
-      "进出口贸易",
-      "纺织服装",
-      "机械设备"
+      "专精特新重点小巨人",
+      "制造业单项冠军",
+      "国家级高新技术企业",
+      "5G工厂",
+      "智能制造示范企业",
+      "出口导向"
     ],
-
-    "summary": "江西天臣进出口有限责任公司成立于2004年，注册资本50万人民币，注册地址位于南昌市西湖区。公司主营针织品、服装、机械设备、电子设备的进出口业务。规模较小，属于传统贸易型企业。",
+    "summary": "国企改制的高端装备制造企业，齿轮加工机床领域国内龙头（70%市场份额），专精特新重点小巨人，正在推进5G+数字化转型。",
 
     "registration": {
-      "foundedDate": "2004-07-21",
-      "registeredCapital": "50万人民币",
+      "foundedDate": "1968年（原长江机床厂）/ 2004年（改制为现公司）",
+      "registeredCapital": "1460万人民币",
       "paidInCapital": "待补充",
-      "ownershipType": "有限责任公司",
-      "legalPerson": "黄玉华",
-      "address": "江西省南昌市西湖区洪城路555号南美酒店式公寓",
-      "businessTerm": "2004-07-21 至 2024-07-20",
-      "businessTermNote": "营业期限已到期，需确认是否已办理延期登记",
+      "ownershipType": "有限责任公司（国企改制）",
+      "legalPerson": "叶又生",
+      "address": "湖北省宜昌市长机路1号",
+      "businessTerm": "长期经营",
+      "businessTermNote": "成立于1968年，改制后持续经营50余年",
       "branches": {
-        "count": 0,
-        "locations": []
+        "count": "待补充",
+        "locations": ["待补充"]
       },
-      "legalRisks": "待补充",
-      "operatingAnomalies": "营业期限于2024年7月20日到期，状态待确认",
-      "penalties": "待补充",
-      "summary": "公司成立20年，注册资本较小（50万），营业期限已到期需确认延期情况。"
+      "legalRisks": "司法案件13条、裁判文书7条、立案信息14条、开庭公告3条（数据来源：企查查），无失信被执行人记录",
+      "operatingAnomalies": "无明显异常",
+      "penalties": "无重大行政处罚记录",
+      "summary": "国企改制企业，经营稳健，注册资本1460万。有一定数量司法纠纷属装备制造行业正常商业纠纷。"
     },
 
     "policyAnalysis": {
-      "isSpecialized": false,
-      "isDigitalTransformation": false,
+      "isSpecialized": true,
+      "isDigitalTransformation": true,
       "isESG": false,
-      "isHighTech": false,
-      "policySupportLevel": "待评估 - 传统贸易企业，需结合具体业务判断政策关联度",
-      "leverageStrategy": "待补充"
+      "isHighTech": true,
+      "policySupportLevel": "极高 - 专精特新重点小巨人、单项冠军、5G工厂，享受多层级政策资金支持",
+      "leverageStrategy": "强调国家级资质认证（小巨人、单项冠军、5G工厂）和数字化转型成果（两化融合AAA级、DCMM贯标），契合国家智能制造、工业互联网、高端装备自主可控政策方向"
     },
 
     "timing": {
-      "currentPhase": "待验证 - 需进一步了解公司当前经营状况",
-      "evidence": "公开信息有限，需拜访了解",
-      "entryStrategy": "待补充"
+      "currentPhase": "扩张期 - 数字化转型深化",
+      "evidence": "1）试点5G工厂，单台设备效率30%→70%，产能+18.6%，成本-15.2%；2）工艺数字化设计场景入选2023年度智能制造优秀场景；3）通过两化融合AAA级和DCMM数据管理贯标；4）参与行业展会并举办技术研讨会",
+      "entryStrategy": "正值数字化深水区，需要数据治理、工艺数字化、智能仓储、供应链协同等系统。强调已验证ROI（产能+18.6%）和价值案例，提供可扩展的工业互联网平台方案"
     },
 
     "creditRisk": {
-      "legalRisk": "待评估",
-      "operationalRisk": "待评估",
-      "creditRating": "待评估",
+      "legalRisk": "中等 - 存在司法案件13条，但无失信记录",
+      "operationalRisk": "低 - 国企背景，经营50余年，银行资信AAA级，总资产8亿余元",
+      "creditRating": "良好 - AAA级银行资信，政策资金支持充足",
       "warnings": [
-        "营业期限已于2024年7月20日到期"
+        "存在一定数量司法纠纷（13条），需关注案件类型"
       ],
-      "salesAdvice": "注册资本仅50万，规模较小。建议先了解公司当前实际经营状况和延期情况，再评估合作价值。"
+      "salesAdvice": "国企背景，资金实力强（总资产8亿），银行资信AAA，有政策资金支持。司法风险可控。建议聚焦数字化转型项目，可谈中大型方案。"
     },
 
     "organization": {
-      "type": "有限责任公司",
-      "decisionChain": "待补充",
-        "keyPersons": [
-        "法定代表人：黄玉华",
-        "总经理/股东：廖强"
+      "type": "有限责任公司（国企改制）",
+      "decisionChain": "职业经理人制度，技术导向，可能需要技术总监/总工+采购/信息中心多部门决策",
+      "keyPersons": [
+        "董事长/总经理：叶又生",
+        "总工程师/技术总监：钟瑞龄（教授级高工）",
+        "研究院院长：周庆华"
       ],
-      "salesStrategy": "待补充"
+      "salesStrategy": "技术驱动型，先打动技术部门（总工/研究院），再推动采购流程。强调技术领先性和行业标杆案例"
     },
 
     "strategy": {
-      "phase": "待验证",
-      "growthStage": "待验证",
-      "competitivePosition": "待验证",
-      "digitalMaturity": "待验证 - 传统贸易企业数字化基础较弱",
-      "analysisPath": "基于工商注册信息初步分析",
-      "informationQuality": "低 - 公开信息非常有限",
-      "expansionSignals": [],
-      "contractionSignals": [
-        "营业期限已到期"
+      "phase": "扩张期",
+      "growthStage": "成熟期再增长 - 传统优势业务+数字化转型驱动第二增长曲线",
+      "competitivePosition": "国内绝对领先 - 数控插齿机国内市场份额70%，国家级单项冠军，全球知名插齿机制造商",
+      "digitalMaturity": "高 - 已通过两化融合AAA级、DCMM贯标，建有5G工厂，应用工业物联网、数字孪生、AI技术",
+      "analysisPath": "Path B+ - 有官网且信息丰富，行业驱动分析结合官网洞察",
+      "informationQuality": "高 - 官网完整，工商信息可查，行业地位明确",
+      "expansionSignals": [
+        "5G工厂试点成功，效率大幅提升",
+        "入选智能制造优秀场景",
+        "通过多项数字化认证",
+        "举办技术研讨会扩大行业影响力",
+        "参与国际展会（CCMT等）"
       ],
-      "riskSignals": []
+      "contractionSignals": [],
+      "riskSignals": ["司法案件13条，需关注案件性质"]
     },
 
     "techStack": {
-      "current": ["待补充"],
-      "inferred": ["可能使用基础财务软件、进出口报关系统"],
-      "maturity": "待验证",
-      "direction": "待补充"
+      "current": [
+        "两化融合管理体系",
+        "5G+工业互联网",
+        "数字孪生技术",
+        "工艺数字化设计系统",
+        "DCMM数据管理",
+        "可能的ERP/MES（待验证）"
+      ],
+      "inferred": "装备制造行业典型技术栈：ERP（用友/金蝶/SAP）+ MES + PLC数控系统 + 工业物联网平台 + 数据分析",
+      "maturity": "高 - 已进入工业4.0实践阶段",
+      "direction": "深化5G+工业互联网应用，完善数据治理与智能决策系统"
     },
 
     "keyMetrics": [
-      {
-        "metric": "注册资本",
-        "value": "50万人民币"
-      },
-      {
-        "metric": "成立时间",
-        "value": "2004年"
-      },
-      {
-        "metric": "营业期限",
-        "value": "已到期（2024-07-20）"
-      }
+      {"label": "成立时间", "value": "1968年（原厂）/2004年（改制）", "trend": null},
+      {"label": "员工人数", "value": "500余人", "trend": null},
+      {"label": "总资产", "value": "8亿余元", "trend": null},
+      {"label": "占地面积", "value": "22万平方米", "trend": null},
+      {"label": "国内市场份额", "value": "70%（数控插齿机）", "trend": "领先"},
+      {"label": "中高级技术人员", "value": "150余人", "trend": null},
+      {"label": "参保人数", "value": "472人", "trend": null},
+      {"label": "专利", "value": "284条", "trend": null}
     ],
 
     "toSupplement": [
-      "公司当前实际经营状态",
-      "年营业额规模",
-      "主要客户和供应商",
-      "员工人数",
-      "是否已办理营业期限延期",
-      "决策人及联系方式"
+      "ERP/MES具体厂商（待确认）",
+      "年营收规模（非上市，未公开）",
+      "主要海外市场分布",
+      "IT/信息化部门负责人",
+      "典型客户案例名称"
     ],
 
     "metadata": {
       "createdAt": "2026-03-17",
       "updatedAt": "2026-03-17",
-      "createdBy": "AI销售助理",
+      "createdBy": "AI",
       "version": "1.0",
       "sources": [
-        "工商信息查询平台",
-        "天眼查"
+        "https://www.cjmt.com.cn/",
+        "https://m.qcc.com/firm/d6bd52bfa14f821a0ad8d82ff8bab121.html",
+        "https://www.cmtba.org.cn/web/13/202111/1928.html",
+        "http://news.cjn.cn/hbpd_19912/yw_19915/202312/t4775514.htm",
+        "https://news.hubeidaily.net/mobile/c_3260496.html",
+        "https://hr.cjmt.com.cn/"
       ],
-      "confidence": 0.4
+      "confidence": 85
     }
   }
 }
