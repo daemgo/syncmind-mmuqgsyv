@@ -1,132 +1,129 @@
 {
   "profile": {
-    "companyName": "天臣（南昌）新能源有限责任公司",
-    "shortName": "天臣新能源南昌",
+    "companyName": "江西天臣进出口有限责任公司",
+    "shortName": "江西天臣",
     "isListed": false,
     "stockCode": "",
     "website": "",
-    "industry": "新能源",
-    "subIndustry": "锂电池/储能电池",
-    "scale": "中型企业",
-    "mainBusiness": "方形磷酸铁锂储能电池研发、生产与销售",
+    "industry": "进出口贸易",
+    "subIndustry": "纺织品/机械设备进出口",
+    "scale": "小型企业",
+    "mainBusiness": "自营和代理各类商品和技术的进出口业务",
     "products": [
-      "方形磷酸铁锂电池（储能锂电池）",
-      "储能电池系统总成"
+      "针织品",
+      "服装",
+      "机械设备",
+      "电子设备"
     ],
     "targetCustomers": [
-      "储能系统集成商",
-      "新能源电站开发商",
-      "电网公司"
+      "待补充"
     ],
-    "businessModel": "B2B制造 - 锂电池生产制造，通过直销模式向储能系统集成商和电站开发商供货",
-    "rating": "B",
+    "businessModel": "B2B贸易 - 进出口贸易代理和自营业务",
+    "rating": "C",
     "tags": [
-      "新能源",
-      "锂电池",
-      "储能",
-      "制造型企业"
+      "进出口贸易",
+      "纺织服装",
+      "机械设备"
     ],
 
-    "summary": "天臣新能源成立于2017年，2022年在南昌设立生产基地。南昌项目规划投资35亿元，建设年产8.9GWh方形磷酸铁锂储能电池产能。公司被上市公司黑芝麻收购59.09%股权，成为其新能源转型的重要载体。目前项目面临行业产能过剩、资金紧张等挑战，2024年已宣布暂缓储能项目建设。",
+    "summary": "江西天臣进出口有限责任公司成立于2004年，注册资本50万人民币，注册地址位于南昌市西湖区。公司主营针织品、服装、机械设备、电子设备的进出口业务。规模较小，属于传统贸易型企业。",
 
     "registration": {
-      "foundedDate": "2022-11-16（南昌公司）",
-      "registeredCapital": "未披露",
-      "paidInCapital": "未披露",
-      "ownershipType": "有限责任公司（黑芝麻持股59.09%）",
+      "foundedDate": "2004-07-21",
+      "registeredCapital": "50万人民币",
+      "paidInCapital": "待补充",
+      "ownershipType": "有限责任公司",
+      "legalPerson": "黄玉华",
+      "address": "江西省南昌市西湖区洪城路555号南美酒店式公寓",
+      "businessTerm": "2004-07-21 至 2024-07-20",
+      "businessTermNote": "营业期限已到期，需确认是否已办理延期登记",
       "branches": {
-        "count": 2,
-        "locations": [
-          "南京溧水经济开发区（2017年成立）",
-          "江西南昌新建区经开区（2022年成立）"
-        ]
+        "count": 0,
+        "locations": []
       },
-      "legalRisks": "黑芝麻因资金占用、违规担保等问题收到监管警示函，涉及储能项目投资",
-      "operatingAnomalies": "2024年宣布暂缓南昌储能项目建设，原规划产能搁浅",
-      "penalties": "母公司黑芝麻收到监管警示函",
-      "summary": "南昌公司2022年新设，暂无独立风险记录。但母公司层面存在合规问题和项目搁浅风险。"
+      "legalRisks": "待补充",
+      "operatingAnomalies": "营业期限于2024年7月20日到期，状态待确认",
+      "penalties": "待补充",
+      "summary": "公司成立20年，注册资本较小（50万），营业期限已到期需确认延期情况。"
     },
 
     "policyAnalysis": {
       "isSpecialized": false,
       "isDigitalTransformation": false,
-      "isESG": true,
-      "isHighTech": true,
-      "policySupportLevel": "高 - 江西省将锂电列为重点产业，南昌是五大重点发展区域之一",
-      "leverageStrategy": "可对接《江西省未来产业培育发展行动方案（2024-2026年）》及锂电专项支持政策，强调高能量比、高可靠性电池技术方向"
+      "isESG": false,
+      "isHighTech": false,
+      "policySupportLevel": "待评估 - 传统贸易企业，需结合具体业务判断政策关联度",
+      "leverageStrategy": "待补充"
     },
 
     "timing": {
-      "currentPhase": "调整期 - 项目暂缓，战略待定",
-      "evidence": "2024年黑芝麻宣布暂缓南昌储能项目建设，理由是外部经济形势变化、行业发展态势变化及严控投资风险",
-      "entryStrategy": "谨慎观望。待公司战略明朗后再介入，或以轻量级POC建立信任关系"
+      "currentPhase": "待验证 - 需进一步了解公司当前经营状况",
+      "evidence": "公开信息有限，需拜访了解",
+      "entryStrategy": "待补充"
     },
 
     "creditRisk": {
-      "legalRisk": "中等 - 母公司收到监管警示函，涉及资金占用和违规担保",
-      "operationalRisk": "高 - 核心项目搁浅，资金紧张，控制权拟变更为广西国资委",
-      "creditRating": "B - 母公司2023-2024年整体扭亏，但新能源业务持续亏损",
+      "legalRisk": "待评估",
+      "operationalRisk": "待评估",
+      "creditRating": "待评估",
       "warnings": [
-        "南昌35亿储能项目已暂缓",
-        "天臣新能源深陷亏损",
-        "母公司控制权拟变更（广西国资入局）"
+        "营业期限已于2024年7月20日到期"
       ],
-      "salesAdvice": "该客户当前处于高风险调整期。不建议推进大额长期合同。可保持关系，待国资入局、战略稳定后再重点跟进。"
+      "salesAdvice": "注册资本仅50万，规模较小。建议先了解公司当前实际经营状况和延期情况，再评估合作价值。"
     },
 
     "organization": {
-      "type": "控股子公司（黑芝麻持股59.09%）",
-      "decisionChain": "南昌基地负责人 → 天臣新能源管理层 → 黑芝麻集团层面（拟变更为广西国资委）",
+      "type": "有限责任公司",
+      "decisionChain": "待补充",
       "keyPersons": [
-        "待补充：南昌基地负责人",
-        "待补充：天臣新能源法人代表"
+        "法定代表人：黄玉华"
       ],
-      "salesStrategy": "由于控制权拟变更，当前决策链条复杂。建议待国资入局稳定后，从集团层面自上而下推动"
+      "salesStrategy": "待补充"
     },
 
     "strategy": {
-      "phase": "战略调整期",
-      "growthStage": "扩张受阻",
-      "competitivePosition": "二线储能电池厂商，规模与头部宁德时代、比亚迪差距较大",
-      "digitalMaturity": "假设待验证 - 制造型企业通常在智能制造、产线数字化方面有基础需求",
-      "analysisPath": "基于公开工商信息、母公司公告及行业报告推断",
-      "informationQuality": "中等 - 母公司上市公告信息较完整，但南昌基地具体运营数据有限",
+      "phase": "待验证",
+      "growthStage": "待验证",
+      "competitivePosition": "待验证",
+      "digitalMaturity": "待验证 - 传统贸易企业数字化基础较弱",
+      "analysisPath": "基于工商注册信息初步分析",
+      "informationQuality": "低 - 公开信息非常有限",
       "expansionSignals": [],
       "contractionSignals": [
-        "2024年宣布暂缓南昌35亿储能项目建设",
-        "黑芝麻严控投资风险，避免投资损失"
+        "营业期限已到期"
       ],
-      "riskSignals": [
-        "天臣新能源持续亏损",
-        "母公司控制权拟变更",
-        "收到监管警示函"
-      ]
+      "riskSignals": []
     },
 
     "techStack": {
       "current": ["待补充"],
-      "inferred": ["ERP系统", "MES（制造执行系统）", "仓储管理系统"],
+      "inferred": ["可能使用基础财务软件、进出口报关系统"],
       "maturity": "待验证",
       "direction": "待补充"
     },
 
     "keyMetrics": [
       {
-        "metric": "规划产能",
-        "value": "8.9GWh/年"
+        "metric": "注册资本",
+        "value": "50万人民币"
       },
       {
-        "metric": "规划投资",
-        "value": "35亿元"
+        "metric": "成立时间",
+        "value": "2004年"
       },
       {
-        "metric": "项目状态",
-        "value": "已暂缓"
-      },
-      {
-        "metric": "母公司持股",
-        "value": "59.09%"
+        "metric": "营业期限",
+        "value": "已到期（2024-07-20）"
       }
+    ],
+
+    "toSupplement": [
+      "公司当前实际经营状态",
+      "年营业额规模",
+      "主要客户和供应商",
+      "员工人数",
+      "是否已办理营业期限延期",
+      "决策人及联系方式"
     ],
 
     "metadata": {
@@ -136,11 +133,9 @@
       "version": "1.0",
       "sources": [
         "工商信息查询平台",
-        "黑芝麻公司公告",
-        "江西省工业和信息化厅政策文件",
-        "行业新闻报道"
+        "天眼查"
       ],
-      "confidence": 0.65
+      "confidence": 0.4
     }
   }
 }
